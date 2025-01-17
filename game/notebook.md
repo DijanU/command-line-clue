@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Silver Watch
-- [ ] Antique Compass
+- [X] Antique Compass
 - [X] Walking Stick
 
 ## Notes
