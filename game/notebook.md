@@ -3,7 +3,7 @@
 ## Suspects
 - [X] The Teacher
 - [ ] The Artist
-- [ ] The Innkeeper
+- [X] The Innkeeper
 
 ## Weapons
 - [ ] Silver Watch
