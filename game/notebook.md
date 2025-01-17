@@ -8,7 +8,7 @@
 ## Weapons
 - [ ] Silver Watch
 - [ ] Antique Compass
-- [ ] Walking Stick
+- [X] Walking Stick
 
 ## Notes
 *The murder took place at the school*
