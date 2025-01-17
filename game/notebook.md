@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Teacher
+- [X] The Teacher
 - [ ] The Artist
 - [ ] The Innkeeper
 
